@@ -2,6 +2,8 @@
 日本にいるただの中学生です。無料LLMとPythonで遊んでます。
 ChatGPTに「GitHubアカウントは持っとけ」と言われたのでアカウントを作りました。活動は基本的に趣味として行うつもりです。
 
+リンクを置いたりもします：[連絡用](https://docs.google.com/forms/d/1ZTPPi3RcB69PLkKo8F-kWYNGrG8FocBejI10mEKiMMo)
+
 ---
 
 ## Hi, I'm PixelNest (pixelnest256)
